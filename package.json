@@ -1,0 +1,19 @@
+{
+  "name": "world-cup-pool-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianBurnsUnbounce/world-cup-pool-2018.git"
+  },
+  "author": "Brian Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianBurnsUnbounce/world-cup-pool-2018/issues"
+  },
+  "homepage": "https://github.com/BrianBurnsUnbounce/world-cup-pool-2018#readme"
+}
